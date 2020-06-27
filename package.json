@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "next": "^9.3.3",
+    "node-binance-api": "^0.11.8",
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
   }
