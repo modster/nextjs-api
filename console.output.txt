@@ -1,0 +1,44 @@
+PS C:\Users\unmod\AREA51> npx create-next-app
+npx: installed 1 in 6.379s
+√ What is your project named? ... next-playground
+√ Pick a template » Default starter app
+Creating a new Next.js app in C:\Users\unmod\AREA51\next-playground.
+
+Installing react, react-dom, and next using npm...
+
+
+> @ampproject/toolbox-optimizer@2.4.0 postinstall C:\Users\unmod\AREA51\next-playground\node_modules\@ampproject\toolbox-optimizer
+> node lib/warmup.js
+
+AMP Optimizer Downloading latest AMP runtime data
++ react-dom@16.13.1
++ react@16.13.1
++ next@9.4.4
+added 831 packages from 323 contributors and audited 834 packages in 57.835s
+
+32 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+
+Initialized a git repository.
+
+Success! Created next-playground at C:\Users\unmod\AREA51\next-playground
+Inside that directory, you can run several commands:
+
+  npm run dev
+    Starts the development server.
+
+  npm run build
+    Builds the app for production.
+
+  npm start
+    Runs the built app in production mode.
+
+We suggest that you begin by typing:
+
+  cd next-playground
+  npm run dev
+
+PS C:\Users\unmod\AREA51>
